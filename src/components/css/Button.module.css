@@ -1,0 +1,12 @@
+.right_header_btn{
+    width: 124px;
+    height: 34px;
+    border-radius: 23px;
+    background-image: linear-gradient(to right, #2B59FF, #BB2BFF); 
+    align-items: center;
+    padding:5px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: #E0E0E0;
+  }
